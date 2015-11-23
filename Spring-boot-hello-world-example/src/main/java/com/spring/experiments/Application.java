@@ -23,7 +23,7 @@ public class Application {
         for (String beanName : beanNames) {
             System.out.println(beanName);
         }
-        System.out.println("Spring Boot ends...");
+        System.out.println("Spring Boot started...");
     }
 
 }
